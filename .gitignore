@@ -34,5 +34,5 @@
 # vercel
 /breeze-next/.vercel
 
-/laravel/vendor
-/laravel/.idea
+vendor
+.idea
